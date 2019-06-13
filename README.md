@@ -1,5 +1,5 @@
 # LeetCode做题记录
-从简单开始做，慢慢提升
 
-- addBinary
+- 两数之和 - addBinary
+-
 
