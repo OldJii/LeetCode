@@ -43,3 +43,8 @@
 - 钥匙和房间 - canVisitAllRooms
 - 二叉树的层次遍历 - levelOrder
 - 二叉树的最大深度 - maxDepth
+
+----------------------------------
+- 数组中重复的数字 - findRepeatNumber
+- 替换空格 - replaceSpace
+- 从尾到头打印链表 - reversePrint
