@@ -48,3 +48,5 @@
 - 数组中重复的数字 - findRepeatNumber
 - 替换空格 - replaceSpace
 - 从尾到头打印链表 - reversePrint
+- 二维数组中的查找 - findNumberIn2DArray
+- 链表中倒数第k个节点 - getKthFromEnd
